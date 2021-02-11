@@ -21,6 +21,7 @@ Hi, my name is Emanuel Douglas, i am a software developer. Developing apps and s
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">&nbsp; My technologies 
 
+- [Java](https://www.java.com/pt-BR/)
 - [JavaScript](https://www.w3schools.com/js/default.asp)
 - [TypeScript](https://www.typescriptlang.org/)
 - [NodeJS](https://nodejs.org/en/)
