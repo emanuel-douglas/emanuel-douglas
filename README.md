@@ -9,7 +9,7 @@ Software developer.
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Welcome to my page!
 
-Coding is an art, and like any art is something that need to be done with love.
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="20px">&nbsp; Coding is an art, and like any art is something that need to be done with love.
 
 I code apps to make people's lives easier and productive, making sure that the wheel is not reinvented.
 
